@@ -1,6 +1,6 @@
 # Sora-XL
 
-A method for eXtremely Long-form video generation using a combination of Sora and NUWA-XL.
+A prospective method for eXtremely Long-form video generation using a combination of Sora and NUWA-XL.
 
 ## 1. Introduction
 
